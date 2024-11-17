@@ -1,1 +1,6 @@
-# lab8web
+![Screenshot 2024-11-16 141950](https://github.com/user-attachments/assets/687b33d7-d3ea-4971-a245-a60b95dca9ac)
+![Screenshot 2024-11-17 173245](https://github.com/user-attachments/assets/dc96ba0d-5839-4108-92db-53f600fd159b)
+![Screenshot 2024-11-16 225341](https://github.com/user-attachments/assets/09a7eec9-ed68-48ec-bb3b-0e259c0fa9bb)
+![Screenshot 2024-11-16 142615](https://github.com/user-attachments/assets/9707507f-084e-4391-b16f-ce38fbcefe73)
+![Screenshot 2024-11-16 142236](https://github.com/user-attachments/assets/bf3bdfc2-37e7-48e8-835b-f7857b83c6ef)
+![Screenshot 2024-11-16 142100](https://github.com/user-attachments/assets/40741657-40bb-454b-b9cc-027c2225891e)
